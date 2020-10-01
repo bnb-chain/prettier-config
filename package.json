@@ -5,6 +5,9 @@
   "main": "prettier.config.js",
   "repository": "https://github.com/binance-chain/prettier-config",
   "license": "MIT",
+  "publishConfig": {
+    "access": "public"
+  },
   "files": [
     "prettier.config.js"
   ],

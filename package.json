@@ -1,0 +1,17 @@
+{
+  "name": "@binance-chain/prettier-config",
+  "version": "0.0.0-development",
+  "description": "Prettier config.",
+  "main": "prettier.config.js",
+  "repository": "https://github.com/binance-chain/prettier-config",
+  "license": "MIT",
+  "files": [
+    "prettier.config.js"
+  ],
+  "scripts": {
+    "format": "prettier --write '**/*.{js,jsx,ts,tsx,css,json,md,mdx,html}'"
+  },
+  "devDependencies": {
+    "prettier": "^2.1.2"
+  }
+}
